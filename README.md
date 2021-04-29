@@ -9,4 +9,4 @@ Repository ini hanya untuk pengerjaan praktikum IMPAL.
 
 SKPL and DPPL included.
 
-code 15%.
+code 35%.
